@@ -1,0 +1,19 @@
+{
+  "name": "testes_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "imagemin": "^5.3.1",
+    "imagemin-pngquant": "^5.1.0"
+  }
+}
